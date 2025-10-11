@@ -6,11 +6,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision;IoT+Systems+%7C+ESP32;Fullstack+Developer+%7C+RPL;Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision;IoT+Systems+%7C+ESP32;Junior+Developer+%7C+;Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 - 🎓 Informatics Engineering student at **University of Lampung (UNILA)**
 - 🤖 Passionate about **AI** — especially **Machine Learning**, **Deep Learning**, and **Computer Vision**
