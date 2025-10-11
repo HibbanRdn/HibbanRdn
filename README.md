@@ -74,9 +74,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://hibban-rdn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hibbanrdn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hibbanrdn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/hibbanrdn" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/Hibban_Rdn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
