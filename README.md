@@ -4,7 +4,7 @@
 <h3 align="center">AI & IoT Enthusiast | Informatics Engineering Student @ University of Lampung</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+AI+Research;IoT+Systems+%7C+ESP32+%7C+Blynk;Fullstack+%7C+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+AI+Research;IoT+Systems+%7C+ESP32+%7C+Blynk;Junior+Level+Developer+%7C+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -75,8 +75,8 @@
 
 <p align="center">
   <a href="https://hibban-rdn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hibbanrdn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hibbanrdn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hibbanrdn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hibbanrdn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/Hibban_Rdn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
