@@ -13,8 +13,8 @@
 🎓 Informatics Engineering student at **University of Lampung (UNILA)**  
 🤖 Focused on **Artificial Intelligence**, particularly **Machine Learning**, **Deep Learning**, and **Computer Vision**  
 🔌 Experienced with **IoT systems** — ESP32, sensors, Blynk, and real-time data monitoring  
-🧩 Junior developer with a growing background in **Software Engineering** and **Web Systems**
-💻 Comfortable working with **Python**, **C++**, **Laravel**, **React + Vite**, and **TypeScript**
+🧩 Junior developer with a growing background in **Software Engineering** and **Web Systems**  
+💻 Comfortable working with **Python**, **C++**, **Laravel**, **React + Vite**, and **TypeScript**  
 🌱 Currently exploring **AI integration in IoT systems**  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hibbanrdn) · [Email](mailto:hibbanrdn@gmail.com)
 
