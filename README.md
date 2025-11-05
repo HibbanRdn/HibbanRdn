@@ -1,8 +1,6 @@
 <!-- GitHub Profile README for M. Hibban Ramadhan -->
 
-<p align="center">
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=235&color=gradient&text=👋%20Hi&reversal=false&textBg=false&animation=fadeIn&fontSize=36&section=header)
-</p>
 
 <h1 align="center">👋 Hi, I'm M. Hibban Ramadhan</h1>
 <h3 align="center">AI & IoT Enthusiast | Informatics Engineering Student @ University of Lampung</h3>
