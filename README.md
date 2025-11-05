@@ -1,6 +1,8 @@
 <!-- GitHub Profile README for M. Hibban Ramadhan -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=👋%20Hi,%20I'm%20M.%20Hibban%20Ramadhan&reversal=false&textBg=false&animation=fadeIn&fontSize=32&section=header&fontAlign=50" alt="banner"/>
+</p>
 
-![blur](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=👋%20Hi,%20I'm%20M.%20Hibban%20Ramadhan&reversal=false&textBg=false&animation=fadeIn&fontSize=36&section=header&fontAlign=50)
 
 <h1 align="center">👋 Hi, I'm M. Hibban Ramadhan</h1>
 <h3 align="center">AI & IoT Enthusiast | Informatics Engineering Student @ University of Lampung</h3>
