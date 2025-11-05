@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=👋%20Hi,%20I'm%20M.%20Hibban%20Ramadhan&reversal=false&textBg=false&animation=fadeIn&fontSize=32&section=header&fontAlign=50" alt="banner"/>
 </p>
 <h3 align="center">AI & IoT Enthusiast | Informatics Engineering Student @ University of Lampung</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+AI+Research;IoT+Systems+%7C+ESP32+%7C+Blynk;Junior+Level+Developer+%7C+Software+Engineer" alt="Typing SVG" />
 </p>
