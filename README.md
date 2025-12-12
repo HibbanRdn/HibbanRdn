@@ -73,13 +73,16 @@ const hibban = {
 ## **📈 GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibbanrdn&show_icons=true&theme=react&hide_border=true" height="165" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&theme=react&hide_border=true" height="165" alt="top languages" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=hibbanrdn&theme=react&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/hibbanrdn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hibbanrdn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hibbanrdn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
