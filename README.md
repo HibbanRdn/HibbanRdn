@@ -1,26 +1,31 @@
-<!-- GitHub Profile README for M. Hibban Ramadhan -->
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=👋%20Hi,%20I'm%20Hibban&fontSize=32" alt="banner"/>
-</p>
-<h3 align="center">AI & IoT Enthusiast | Informatics Engineering Student @ University of Lampung</h3>
-<p align="center">
+  
+  <br/>
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+AI+Research;IoT+Systems+%7C+ESP32+%7C+Blynk;Junior+Level+Developer+%7C+Software+Engineer" alt="Typing SVG" />
-</p>
+
+  <h3>AI & IoT Enthusiast | Informatics Engineering Student @ University of Lampung</h3>
+</div>
 
 ---
 
-### 🧠 About Me  
-🎓 Informatics Engineering student at **University of Lampung (UNILA)**  
-🤖 Focused on **Artificial Intelligence**, particularly **Machine Learning**, **Deep Learning**, and **Computer Vision**  
-🔌 Experienced with **IoT systems** — ESP32, sensors, Blynk, and real-time data monitoring  
-🧩 Junior developer with a growing background in **Software Engineering** and **Web Systems**  
-💻 Comfortable working with **Python**, **C++**, **Laravel**, **React + Vite**, and **TypeScript**  
-🌱 Currently exploring **AI integration in IoT systems**  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hibbanrdn) · [Email](mailto:hibbanrdn@gmail.com)
+### 🧠 About Me
+
+<p>
+🎓 <b>Informatics Engineering Student</b> at University of Lampung (UNILA)<br>
+🤖 Focused on <b>Artificial Intelligence</b> (Machine Learning, Deep Learning, Computer Vision)<br>
+🔌 Experienced with <b>IoT Systems</b> (ESP32, Sensors, Blynk, Real-time Monitoring)<br>
+🧩 Junior Developer with a background in <b>Software Engineering</b> & Web Systems<br>
+💻 Comfortable with <b>Python, C++, Laravel, React,</b> and <b>TypeScript</b><br>
+🌱 Currently exploring <b>AI integration in IoT systems</b><br>
+</p>
 
 ---
 
 ### 🧰 Tech Stack
+
+<div align="center">
 
 #### 💬 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +38,7 @@
 ![React + Vite](https://img.shields.io/badge/React%20+%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### 🧠 AI / Data Science  
+#### 🧠 AI / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -41,16 +46,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-009688?style=for-the-badge&logo=google&logoColor=white)
-![Dlib](https://img.shields.io/badge/Dlib-006400?style=for-the-badge&logo=python&logoColor=white)
-![Face_Recognition](https://img.shields.io/badge/Face_Recognition-2E8B57?style=for-the-badge&logo=python&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-0096FF?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-  
 
 #### ⚙️ IoT & Tools
 ![MQTT](https://img.shields.io/badge/MQTT%20(Mosquitto)-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
@@ -61,54 +60,55 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 
+</div>
+
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🧪 **Apotek Management System** | Web-based system for managing prescriptions, stock, and financial reports |
-| 💼 **Inventory CRUD System** | Laboratory inventory dashboard with role-based CRUD features |
-| 📡 **ESP32 Ultrasonic Sensor System** | Real-time distance monitoring with buzzer and Blynk control |
-| 💡 **Smart Lighting (LDR + ESP32)** | Automated lighting control using LDR sensor with manual override |
-| 🧮 **Housing Price Prediction (ML)** | Linear regression model using Scikit-learn |
-| 🧰 **Image Morphology (CV)** | Morphological operations using OpenCV (erosion, dilation, etc.) |
+| :--- | :--- |
+| 🧪 **Apotek Management System** | Web-based system for managing prescriptions, stock, and financial reports. |
+| 💼 **Inventory CRUD System** | Laboratory inventory dashboard with role-based CRUD features. |
+| 📡 **ESP32 Ultrasonic System** | Real-time distance monitoring with buzzer and Blynk control. |
+| 💡 **Smart Lighting (LDR)** | Automated lighting control using LDR sensor with manual override. |
+| 🧮 **Housing Price Prediction** | Linear regression model implementation using Scikit-learn. |
+| 🧰 **Image Morphology (CV)** | Morphological operations using OpenCV (erosion, dilation, etc.). |
 
 ---
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hibbanrdn&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hibbanrdn&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&theme=react&hide_border=true" />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=hibbanrdn&theme=react&hide_border=true" />
-</p>
+</div>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://hibban-rdn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hibbanrdn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hibbanrdn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/Hibban_Rdn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hibbanrdn&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
-<p align="center"><b>“Bridging the gap between hardware, data, and intelligence.”</b></p>
+<div align="center">
+  <a href="https://hibban-rdn.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hibbanrdn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hibbanrdn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/Hibban_Rdn" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hibbanrdn&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <p><b>“Bridging the gap between hardware, data, and intelligence.”</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&desc=Happy%20coding!&descAlignY=85&animation=twinkling" />
 </div>
-
