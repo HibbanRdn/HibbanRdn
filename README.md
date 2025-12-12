@@ -10,20 +10,26 @@
 
 ---
 
-### 🧠 About Me
+## **👀 About Me**
 
-<p>
-🎓 <b>Informatics Engineering Student</b> at University of Lampung (UNILA)<br>
-🤖 Focused on <b>Artificial Intelligence</b> (Machine Learning, Deep Learning, Computer Vision)<br>
-🔌 Experienced with <b>IoT Systems</b> (ESP32, Sensors, Blynk, Real-time Monitoring)<br>
-🧩 Junior Developer with a background in <b>Software Engineering</b> & Web Systems<br>
-💻 Comfortable with <b>Python, C++, Laravel, React,</b> and <b>TypeScript</b><br>
-🌱 Currently exploring <b>AI integration in IoT systems</b><br>
-</p>
-
+```javascript
+const hibban = {
+    name: "M. Hibban Ramadhan",
+    role: "Informatics Engineering Student",
+    university: "University of Lampung (UNILA)",
+    code: ["Python", "C++", "PHP", "JavaScript", "TypeScript", "Laravel"],
+    askMeAbout: ["AI", "IoT Systems", "Computer Vision", "Machine Learning"],
+    tools: ["ESP32", "TensorFlow", "OpenCV", "React", "Blynk"],
+    currentFocus: "Exploring AI integration in IoT systems",
+    contact: {
+        linkedin: "[https://www.linkedin.com/in/hibbanrdn](https://www.linkedin.com/in/hibbanrdn)",
+        email: "hibbanrdn@gmail.com"
+    }
+};
+```
 ---
 
-### 🧰 Tech Stack
+## **🧰 Tech Stack**
 
 <div align="center">
 
@@ -61,19 +67,6 @@
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| 🧪 **Apotek Management System** | Web-based system for managing prescriptions, stock, and financial reports. |
-| 💼 **Inventory CRUD System** | Laboratory inventory dashboard with role-based CRUD features. |
-| 📡 **ESP32 Ultrasonic System** | Real-time distance monitoring with buzzer and Blynk control. |
-| 💡 **Smart Lighting (LDR)** | Automated lighting control using LDR sensor with manual override. |
-| 🧮 **Housing Price Prediction** | Linear regression model implementation using Scikit-learn. |
-| 🧰 **Image Morphology (CV)** | Morphological operations using OpenCV (erosion, dilation, etc.). |
 
 ---
 
