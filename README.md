@@ -102,6 +102,7 @@ const hibban = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hibbanrdn&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <br/>
   <p><b>“Bridging the gap between hardware, data, and intelligence.”</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&desc=Happy%20coding!&descAlignY=85&animation=twinkling" />
 </div>
