@@ -70,18 +70,21 @@ const hibban = {
 
 ---
 
-### 📈 GitHub Analytics
+## **📈 GitHub Analytics**
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hibbanrdn&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hibbanrdn&show_icons=true&theme=react&hide_border=true" height="165" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&theme=react&hide_border=true" height="165" alt="top languages" />
+  
   <br/>
-  <img src="https://streak-stats.demolab.com?user=hibbanrdn&theme=react&hide_border=true" />
+  
+  <img src="https://streak-stats.demolab.com?user=hibbanrdn&theme=react&hide_border=true" alt="streak graph" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+## **🌐 Connect with Me**
 
 <div align="center">
   <a href="https://hibban-rdn.vercel.app" target="_blank">
