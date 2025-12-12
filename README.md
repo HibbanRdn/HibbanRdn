@@ -76,7 +76,7 @@ const hibban = {
   <a href="https://github.com/hibbanrdn">
     <img height="180em" src="https://github-readme-stats-sooty-eight-58.vercel.app/api?username=hibbanrdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
     
-    <img height="180em" src="https://github-readme-stats-sooty-eight-58.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sooty-eight-58.vercel.app/api/top-langs/?username=hibbanrdn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
